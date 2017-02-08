@@ -40,7 +40,15 @@ public class WordsToNumbersTest {
 	}
 	
 	@Test
-	public void jgiven_seven_hundred_five_return_705(){
+	public void given_seven_thousand_five_hundred_twenty_three_return_7523(){
 		Assert.assertEquals(7523, wordToNum.convert("seven thousand five hundred twenty three"));
+	}
+	@Test
+	public void given_four_hundred_twenty_thousand_ten_return_420010(){
+		Assert.assertEquals(420010, wordToNum.convert("four hundred twenty thousand ten"));
+	}
+	@Test
+	public void given_four_hundred_twenty_thousand_six_hundred_ten_return_420523(){
+		Assert.assertEquals(420610, wordToNum.convert("four hundred twenty thousand six hundred ten"));
 	}
 }
