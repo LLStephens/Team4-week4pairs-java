@@ -5,6 +5,8 @@ import java.io.OutputStream;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
+import com.techelevator.Money;
+
 public class Menu {
 
 	private PrintWriter out;
@@ -15,20 +17,20 @@ public class Menu {
 		this.in = new Scanner(input);
 	}
 
-	public Object getChoiceFromOptions(Object[] options) {
+	public Object getChoiceFromOptions(Object[] options) { //takes array of anything, present list to user, ask user for selection, 
 		Object choice = null;
 		while(choice == null) {
-			displayMenuOptions(options);
+			displayMenuOptions(options); //print menu options
 			choice = getChoiceFromUserInput(options);
 		}
 		return choice;
 	}
 
-	private Object getChoiceFromUserInput(Object[] options) {
+	private Object getChoiceFromUserInput(Object[] options) { //same object array
 		Object choice = null;
 		String userInput = in.nextLine();
 		try {
-			int selectedOption = Integer.valueOf(userInput);
+			int selectedOption = Integer.valueOf(userInput); //try to parse input as integer
 			if(selectedOption > 0 && selectedOption <= options.length) {
 				choice = options[selectedOption - 1];
 			}
@@ -50,4 +52,6 @@ public class Menu {
 		out.print("\nPlease choose an option >>> ");
 		out.flush();
 	}
+
+
 }
