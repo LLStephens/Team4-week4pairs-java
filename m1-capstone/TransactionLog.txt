@@ -1,0 +1,29 @@
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: 5.0
+2017/02/10 16:38:36  Potato Crisps  A1  3.05
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: 10.0
+Deposit: 20.0
+2017/02/10 16:40:01  Potato Crisps  A1  3.05
+2017/02/10 16:40:01  Potato Crisps  A1  3.05
+2017/02/10 16:40:01  Potato Crisps  A1  3.05
+2017/02/10 16:40:01  Potato Crisps  A1  3.05
+2017/02/10 16:40:01  Potato Crisps  A1  3.05
+2017/02/10 16:40:01  Potato Crisps  A1  3.05
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: 10.0
+Deposit: 20.0
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: 10.0
+Deposit: 20.0
+2017/02/10 16:53:09  Potato Crisps  A1  3.05
+2017/02/10 16:53:09  Potato Crisps  A1  3.05
+2017/02/10 16:53:09  Potato Crisps  A1  3.05
+2017/02/10 16:53:09  Potato Crisps  A1  3.05
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: 5
+Change: 0.0
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: 10
+2017/02/10 17:00:59  Grain Waves  A3  2.75
+Deposit: 7.25

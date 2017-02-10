@@ -1,5 +1,8 @@
 package com.techelevator;
 
+import java.io.FileNotFoundException;
+import java.io.IOException;
+
 import com.techelevator.view.Menu;
 
 public class VendingMachineCLI {
@@ -10,21 +13,23 @@ public class VendingMachineCLI {
 													   MAIN_MENU_OPTION_PURCHASE,  };
 	
 	private Menu menu;
+	private VendingMachinePurchaseMenu purchaseMenu;
+	private Inventory inventory;
 	
 	public VendingMachineCLI(Menu menu) {
 		this.menu = menu;
+		this.inventory = new Inventory();
+		purchaseMenu = new VendingMachinePurchaseMenu(menu, inventory);
 	}
 	
-	public void run() {
+	public void run() throws IOException {
 		while(true) {
 			String choice = (String)menu.getChoiceFromOptions(MAIN_MENU_OPTIONS); //call method in menu that takes array of menu options
 			
 			if(choice.equals(MAIN_MENU_OPTION_DISPLAY_ITEMS)) {
-				Inventory inventory = new Inventory();
-				inventory.createInventory();
+				InventoryDisplay id = new InventoryDisplay();
+				id.displayItems();
 			} else if(choice.equals(MAIN_MENU_OPTION_PURCHASE)) {
-				Menu menu = new Menu(System.in, System.out);
-				VendingMachinePurchaseMenu purchaseMenu = new VendingMachinePurchaseMenu(menu);
 				purchaseMenu.runPurchaseMenu();
 			}
 		}
