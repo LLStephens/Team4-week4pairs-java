@@ -2,21 +2,20 @@ package com.techelevator;
 
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.PrintWriter;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
 public class Inventory {
-	public Map<String, Integer> itemsQuantity;
-	public Map<String, String> itemsDescription;
-	public Map<String, Double> itemsPrice;
+	private Map<String, Integer> itemsQuantity;
+	private Map<String, String> itemsDescription;
+	private Map<String, Double> itemsPrice;
 	
 	public Inventory() {
 		itemsQuantity = new HashMap<String, Integer>();
 		itemsDescription = new HashMap<String, String>();
 		itemsPrice = new HashMap<String, Double>();
-		File file = new File("/Users/lstephens/Desktop/vendingmachine.csv");
+		File file = new File("vendingmachine.csv");
 			try {
 				Scanner scanInput = new Scanner(file);
 				while (scanInput.hasNextLine()) {

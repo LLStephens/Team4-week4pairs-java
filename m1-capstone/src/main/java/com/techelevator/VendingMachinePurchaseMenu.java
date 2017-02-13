@@ -1,8 +1,8 @@
 package com.techelevator;
 
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.List;
+import java.util.Map;
 
 import com.techelevator.view.Menu;
 
@@ -24,6 +24,8 @@ public class VendingMachinePurchaseMenu {
 	public void runPurchaseMenu() throws IOException {
 		Money money = new Money(selectproduct);
 		List<String> itemsList = null;
+
+		
 		while(true) {
 			String choice = (String)menu.getChoiceFromOptions(PURCHASE_MENU_OPTIONS); //call method in menu that takes array of menu options
 			
@@ -33,9 +35,8 @@ public class VendingMachinePurchaseMenu {
 				itemsList = selectproduct.addItem();
 			} else if(choice.equals(PURCHASE_MENU_OPTION_FINISH_TRANSACTION)) {
 				money.transact(itemsList);
-				money.makeChange();
-				break;
-			} System.out.println("Current Money Provided: $" + money.getCurrentMoney());
+				//break;
+			} System.out.println("Current Money Provided: $" + String.format("%.2f", money.getCurrentMoney()));
 		}
 	}
 	

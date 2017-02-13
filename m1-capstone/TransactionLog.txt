@@ -27,3 +27,546 @@ Date	Time	Product	Slot	AmountAccepted	ChangeTendered
 Deposit: 10
 2017/02/10 17:00:59  Grain Waves  A3  2.75
 Deposit: 7.25
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: 5
+2017/02/10 19:47:58  Potato Crisps  A1  3.05
+Change tendered: 1.9500000000000002
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: 10
+2017/02/10 20:01:31  Potato Crisps  A1  3.05
+Change tendered: 6.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: 5
+2017/02/10 20:05:28  Potato Crisps  A1  3.05
+Change tendered: 1.9500000000000002
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: 2
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: 5
+2017/02/10 20:54:24  Potato Crisps  A1  3.05
+Change tendered: 1.9500000000000002
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: 5
+2017/02/10 21:04:26  Potato Crisps  A1  3.05
+Change tendered: 1.9500000000000002
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: 2
+Deposit: 5
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: 10
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: 10
+2017/02/10 21:16:38  Cloud Popcorn  A4  3.65
+Change tendered: 6.35
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: 5
+2017/02/10 21:24:54  Stackers  A2  1.75
+%10Change tendered: 3.25
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: 10
+2017/02/10 21:34:41  Moonpie  B1  1.8
+8.20
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: 5
+2017/02/10 21:38:38  Cowtales  B2  -$1.50
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: 5
+2017/02/10 21:40:17  Wonka Bar  B3  -$1.5
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: 5
+2017/02/10 21:40:52  Cowtales  B2  -$1.5
+-$3.5
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: 5
+2017/02/10 21:42:52  Cowtales  B2  -$1.5
+-$3.50
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: 5
+2017/02/10 21:44:11  Wonka Bar  B3  -$1.50
+-$3.50
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+2017/02/10 21:52:58  Dr. Salt  C2  $1.50
+$%.2f                
+Date	Time	Product	Slot	AmountAccepted
+Deposit: $5.00
+Deposit: $10.00
+Deposit: $15.00
+Date	Time	Product	Slot	AmountAccepted
+Deposit: $5.00
+Date      Time                     Product             
+Deposit: $5.00
+Date      Time      Product   Slot      
+Deposit: $5.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+2017/02/10 22:07:49  Crunchie  B4  $1.75
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+2017/02/10 22:09:16  Grain Waves  A3  $2.75
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $2.00
+2017/02/10 22:21:43  Crunchie  B4  $1.75
+Change: $0.25
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+2017/02/10 23:19:33  Potato Crisps  A1  $3.05
+Change: $1.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+2017/02/10 23:21:06  Potato Crisps  A1  $3.05
+Change: $1.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+2017/02/10 23:21:53  Potato Crisps  A1  $3.05
+Change: $1.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+2017/02/10 23:23:41  Potato Crisps  A1  $3.05
+Change: $1.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+2017/02/10 23:24:19  Potato Crisps  A1  $3.05
+Change: $1.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+2017/02/10 23:24:43  Potato Crisps  A1  $3.05
+Change: $1.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+2017/02/10 23:25:54  Cowtales  B2  $1.50
+Change: $3.50
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+2017/02/10 23:26:14  Cowtales  B2  $1.50
+Change: $3.50
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+2017/02/10 23:26:36  Cowtales  B2  $1.50
+2017/02/10 23:26:36  Cowtales  B2  $1.50
+Change: $2.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+2017/02/10 23:26:56  Cowtales  B2  $1.50
+2017/02/10 23:26:56  Cowtales  B2  $1.50
+2017/02/10 23:26:56  Cowtales  B2  $1.50
+Change: $0.50
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+2017/02/10 23:28:06  Cowtales  B2  $1.50
+2017/02/10 23:28:06  Cowtales  B2  $1.50
+2017/02/10 23:28:06  Cowtales  B2  $1.50
+Change: $0.50
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+2017/02/10 23:29:08  Potato Crisps  A1  $3.05
+Change: $1.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+2017/02/10 23:30:07  Potato Crisps  A1  $3.05
+Change: $1.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $2.00
+Change: $2.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $2.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $2.00
+Change: $2.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+2017/02/10 23:39:52  Potato Crisps  A1  $3.05
+Change: $1.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+2017/02/10 23:55:58  Potato Crisps  A1  $3.05
+2017/02/10 23:55:58  Stackers  A2  $1.75
+Change: $5.20
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+2017/02/10 23:56:54  Potato Crisps  A1  $3.05
+2017/02/10 23:56:54  Potato Crisps  A1  $3.05
+Change: $3.90
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+2017/02/10 23:58:31  Potato Crisps  A1  $3.05
+Change: $1.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+2017/02/10 23:59:42  Potato Crisps  A1  $3.05
+Change: $1.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+2017/02/10 23:59:55  Potato Crisps  A1  $3.05
+Change: $6.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+2017/02/11 00:00:33  Potato Crisps  A1  $3.05
+Change: $1.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+Deposit: $10.00
+2017/02/11 00:03:15  Potato Crisps  A1  $3.05
+2017/02/11 00:03:15  Potato Crisps  A1  $3.05
+Change: $3.90
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Deposit: $20.00
+Deposit: $30.00
+2017/02/11 00:03:44  Potato Crisps  A1  $3.05
+2017/02/11 00:03:44  Potato Crisps  A1  $3.05
+2017/02/11 00:03:44  Grain Waves  A3  $2.75
+Change: $21.15
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+2017/02/11 00:20:10  Potato Crisps  A1  3.05
+Change: $1.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+2017/02/11 00:20:30  Potato Crisps  A1  3.05
+2017/02/11 00:20:30  Potato Crisps  A1  3.05
+Change: $3.90
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+2017/02/11 00:20:59  Potato Crisps  A1  3.05
+Change: $1.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+Change: $5.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+2017/02/11 00:22:46  Potato Crisps  A1  $3.05
+Change: $1.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+2017/02/11 00:23:06  Potato Crisps  A1  $3.05
+Change: $1.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+2017/02/11 00:23:46  Potato Crisps  A1  $3.05
+Change: $1.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+2017/02/11 00:24:15  Potato Crisps  A1  $3.05
+Change: $6.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+2017/02/11 00:35:56  Potato Crisps  A1  $3.05
+Change: $6.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Deposit: $20.00
+2017/02/11 00:37:49  Potato Crisps  A1  $3.05
+Change: $16.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+2017/02/11 00:43:10  Potato Crisps  A1  $3.05
+Change: $6.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+2017/02/11 00:47:09  Potato Crisps  A1  $3.05
+Change: $6.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+2017/02/11 00:51:34  Potato Crisps  A1  $3.05
+Change: $6.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+2017/02/11 00:53:05  Potato Crisps  A1  $3.05
+Change: $6.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+2017/02/11 00:54:53  Potato Crisps  A1  $3.05
+Change: $6.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+Deposit: $10.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Deposit: $15.00
+Change: $7.45
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Deposit: $20.00
+Change: $12.45
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Deposit: $20.00
+Change: $12.45
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Change: $6.70
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Change: $5.20
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $2.00
+Change: $2.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $2.00
+Change: $2.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $2.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $2.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $2.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+Deposit: $15.00
+Change: $10.15
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+Change: $1.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+Deposit: $7.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+Change: $1.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Deposit: $20.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Deposit: $20.00
+Change: $12.15
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Deposit: $20.00
+2017/02/11 12:04:20 Potato Crisps A1 $7.85
+Change: $12.15
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+2017/02/11 12:07:17 Potato Crisps A1 $3.05
+Change: $6.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+Change: $1.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+Change: $1.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Change: $5.20
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Change: $6.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Change: $6.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Change: $5.20
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Deposit: $20.00
+Change: $9.35
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Deposit: $20.00
+Deposit: $30.00
+Deposit: $40.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Deposit: $20.00
+Deposit: $30.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Deposit: $20.00
+Change: $0.20
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Deposit: $20.00
+Deposit: $30.00
+Change: $11.70
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Deposit: $20.00
+Deposit: $30.00
+Change: $30.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Deposit: $20.00
+Deposit: $21.00
+Deposit: $31.00
+Change: $29.25
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Deposit: $20.00
+Deposit: $30.00
+Change: $28.25
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Deposit: $20.00
+Deposit: $30.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Deposit: $20.00
+Deposit: $30.00
+Change: $26.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Deposit: $20.00
+Deposit: $30.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Change: $10.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Change: $10.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Change: $10.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Change: $6.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+2017/02/11 13:15:38  Potato Crisps  A1  3.05
+2017/02/11 13:15:38  Stackers  A2  1.75
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+2017/02/11 13:16:28  Potato Crisps  A1  3.05
+2017/02/11 13:16:28  Stackers  A2  1.75
+Change: $5.20
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+2017/02/11 13:17:13  Potato Crisps  A1  3.05
+2017/02/11 13:17:13  Stackers  A2  1.75
+2017/02/11 13:17:13  Potato Crisps  A1  3.05
+Change: $2.15
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Change: $6.95
+2017/02/11 13:18:14  Potato Crisps  A1  3.05
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Change: $6.95
+2017/02/11 13:19:24  Potato Crisps  A1  3.05
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+2017/02/11 13:21:21  Potato Crisps  A1  3.05
+2017/02/11 13:21:21  Grain Waves  A3  2.75
+Change: $4.20
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+2017/02/11 13:25:45  Potato Crisps  A1  3.05
+Change: $6.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+2017/02/11 13:26:59  Potato Crisps  A1  3.05
+2017/02/11 13:26:59  Stackers  A2  1.75
+Change: $5.20
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Change: $0.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $2.00
+Change: $2.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+2017/02/11 13:28:23  Potato Crisps  A1  3.05
+Change: $6.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $1.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Change: $4.20
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Change: $6.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Deposit: $20.00
+Deposit: $30.00
+Change: $17.80
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+Change: $3.25
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Change: $7.25
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $1.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $5.00
+Change: $1.95
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10.00
+Deposit: $20.00
+Deposit: $30.00
+2017/02/11 14:12:26  Grain Waves  A3  2.75
+Change: $12.00
+Deposit: $5.00
+2017/02/11 14:12:26  Stackers  A2  1.75
+Change: $3.25
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10
+Deposit: $10
+Deposit: $10
+2017/02/11 14:16:47  Potato Crisps  A1  3.05
+2017/02/11 14:16:47  Stackers  A2  1.75
+Change: $25.20
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10
+Deposit: $5
+2017/02/11 14:17:24  Potato Crisps  A1  3.05
+Change: $11.95
+Deposit: $10
+2017/02/11 14:17:24  Cloud Popcorn  A4  3.65
+2017/02/11 14:17:24  Grain Waves  A3  2.75
+Change: $3.60
+Date	Time	Product	Slot	AmountAccepted	ChangeTendered
+Deposit: $10
+2017/02/11 14:18:10  Potato Crisps  A1  3.05
+2017/02/11 14:18:10  Potato Crisps  A1  3.05
+Change: $3.90
+Date	Time	Product	Slot	AmountAccepted
+Deposit: $10
+Date	Time	Product	Slot	AmountAccepted
+Deposit: $10.0
+Date	Time	Product	Slot	AmountAccepted
+Deposit: $2.0
+Date	Time	Product	Slot	AmountAccepted
+Deposit: $5
+Date	Time	Product	Slot	AmountAccepted
+Deposit: $5
+Change: $5.00
+Date	Time	Product	Slot	AmountAccepted
+Deposit: $5
+2017/02/12 16:14:57  Potato Crisps  A1  3.05
+Change: $1.95
+Date	Time	Product	Slot	AmountAccepted
+Deposit: $5
+Deposit: $10
+2017/02/12 16:37:24  Potato Crisps  A1  3.05
+2017/02/12 16:37:24  Stackers  A2  1.75
+Change: $10.20
