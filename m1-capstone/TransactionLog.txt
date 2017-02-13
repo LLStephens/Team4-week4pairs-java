@@ -570,3 +570,7 @@ Deposit: $10
 2017/02/12 16:37:24  Potato Crisps  A1  3.05
 2017/02/12 16:37:24  Stackers  A2  1.75
 Change: $10.20
+Date	Time	Product	Slot	AmountAccepted
+Deposit: $10
+2017/02/12 20:03:11  Potato Crisps  A1  3.05
+Change: $6.95
